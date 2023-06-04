@@ -43,5 +43,5 @@ How to change the database?
 > }
 > ```
 ##更新alist  
-备份已部署好的（下载项目文件），之后全部上传之后点击下载(https://github.com/alist-org/alist/releases/latest/download/alist-linux-musl-amd64.tar.gz)
-两次解压后改文件名替换备份文件中的
+备份已部署好的（下载项目文件），点击下载(https://github.com/alist-org/alist/releases/latest/download/alist-linux-musl-amd64.tar.gz)
+两次解压后改文件名替换备份文件中的再次上传团队项目
