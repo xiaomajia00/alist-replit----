@@ -1,6 +1,8 @@
 # alist-replit
  部署
 【部署教程】(https://www.bilibili.com/video/BV1pV4y197Eb/?spm_id_from=333.788.recommend_more_video.1&vd_source=997338a3c326e04408c3f23ee16b63ac)
+
+【基本教程】(【进阶版render AList白嫖方法，免费无服务器搭建AList】 https://b23.tv/jmNNNjD)
 ## Database
 You may need to use another remote MySQL/Postgres database as local sqlite3 is public for everyone. Some Free MySQL/Postgres Databases:
 
