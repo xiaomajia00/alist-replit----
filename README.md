@@ -30,8 +30,20 @@ How to change the database?
 > }
 > ```
 > The secrets is private so you don't need to worry about leaking your data.
+###  https://www.elephantsql.com/
+![1](https://github.com/xiaomajia00/alist-replit----/assets/107234600/283c0e90-73b6-48f2-bc7d-e8f0bf79269c)
 
-### Sample Config https://bit.io/
+>{
+>   "DB_TYPE": "postgres",
+>   "DB_HOST": "",
+>   "DB_PORT": "5432",
+>   "DB_USER": "user",
+>   "DB_PASS": "password",
+>   "DB_NAME": "",
+>   "PORT":    "8080",
+>   "DB_SSL_MODE": "disable"
+> }
+### 示例配置https://bit.io/
 > ```json
 > {
 >   "DB_TYPE": "postgres",
